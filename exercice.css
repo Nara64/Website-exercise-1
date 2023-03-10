@@ -21,3 +21,14 @@ font-weight: bold;
     width: 20%;
     height: auto;
 }
+.jeux{
+    text-align: center;
+}
+.accueil{
+   text-align: center;
+   margin-top: 10%;
+}
+.soirées{
+    text-align: end;
+    margin-top: auto;
+}
