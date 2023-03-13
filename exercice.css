@@ -61,11 +61,12 @@ header {
     border-radius: 10px 10px 10px 10px;
 }
 
-footer {
+footer{
     background-color: blanchedalmond;
     border-radius: 10px 10px 10px 10px;
+    display: flex;
+}
+.icone{
+    display: flex;
 }
 
-.facebook{
-    float: right;
-}
