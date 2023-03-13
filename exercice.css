@@ -1,34 +1,51 @@
-h1,h2{
-font-weight: bold;
+h1,
+h2 {
+    font-weight: bold;
 }
-.logo{
+
+.logo {
     width: 15%;
     height: auto
 }
-.dames{
+
+.dames {
     width: 20%;
     height: auto;
 }
-.monopoly{
+
+.monopoly {
     width: 20%;
     height: auto;
 }
-.jeu{
-    width: 20%;
-   height: auto;
-}
-.othello{
+
+.jeu {
     width: 20%;
     height: auto;
 }
-.jeux{
+
+.othello {
+    width: 20%;
+    height: auto;
+}
+
+.jeux {
     text-align: center;
 }
-.accueil{
-   text-align: center;
-   margin-top: 10%;
+
+.accueil {
+    text-align: center;
+    margin-top: 10%;
 }
-.soirées{
+
+.soirées {
     text-align: end;
     margin-top: auto;
+}
+
+header {
+    background-color: chocolate;
+}
+
+footer {
+    background-color: chocolate;
 }
