@@ -9,7 +9,7 @@ h1{
 }
 
 body{
-    font-family: @import url(https://fonts.bunny.net/css);
+    font-family: 'Alef', sans-serif;
 }
 
 .logo {
