@@ -49,3 +49,7 @@ header {
 footer {
     background-color: blanchedalmond;
 }
+
+.facebook {
+    align-items: end;
+}
