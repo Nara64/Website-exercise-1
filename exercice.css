@@ -80,3 +80,39 @@ footer {
     display: flex;
     margin-left: auto;
 }
+
+.dames:hover {
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.dames:hover {
+	opacity: .5;
+}
+
+.monopoly:hover {
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.monopoly:hover {
+	opacity: .5;
+}
+
+.jeu:hover {
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.jeu:hover {
+	opacity: .5;
+}
+
+.othello:hover {
+    opacity: 1;
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.othello:hover {
+	opacity: .5;
+}
