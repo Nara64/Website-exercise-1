@@ -3,15 +3,6 @@ h2 {
     font-weight: bold;
 }
 
-h1{
-    text-align: center;
-
-}
-
-body{
-    font-family: @import url(https://fonts.bunny.net/css);
-}
-
 .logo {
     width: 15%;
     height: auto
