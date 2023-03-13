@@ -3,12 +3,12 @@ h2 {
     font-weight: bold;
 }
 
-h1{
+h1 {
     text-align: center;
-
 }
 
-body{
+
+body {
     font-family: 'Alef', sans-serif;
 }
 
@@ -42,37 +42,34 @@ body{
     height: auto;
 }
 
-.jeux {
-    text-align: center;
-}
 
-.accueil {
-    text-align: center;
-    margin-top: 10%;
-}
-
-.soirées {
-    text-align: center;
-    margin-top: auto;
-}
 
 header {
     background-color: blanchedalmond;
     border-radius: 10px 10px 10px 10px;
+    display: flex;
 }
 
-footer{
+.menu {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: space-around;
+    flex-grow: 1;
+}
+
+footer {
     background-color: blanchedalmond;
     border-radius: 10px 10px 10px 10px;
     display: flex;
 }
-.icone{
+
+.icone {
     display: flex;
     margin-left: auto;
 }
 
-.horaires{
+.horaires {
     display: flex;
     margin-left: auto;
 }
-
