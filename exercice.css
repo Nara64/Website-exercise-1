@@ -1,51 +1,43 @@
-h1,
-h2 {
-    font-weight: bold;
+h1,h2{
+font-weight: bold;
 }
 
-.logo {
+h1{
+    text-align: center;
+
+}
+
+body{
+    font-family: @import url(https://fonts.bunny.net/css);
+}
+.logo{
     width: 15%;
     height: auto
 }
-
-.dames {
+.dames{
     width: 20%;
     height: auto;
 }
-
-.monopoly {
+.monopoly{
     width: 20%;
     height: auto;
 }
-
-.jeu {
+.jeu{
+    width: 20%;
+   height: auto;
+}
+.othello{
     width: 20%;
     height: auto;
 }
-
-.othello {
-    width: 20%;
-    height: auto;
-}
-
-.jeux {
+.jeux{
     text-align: center;
 }
-
-.accueil {
-    text-align: center;
-    margin-top: 10%;
+.accueil{
+   text-align: center;
+   margin-top: 10%;
 }
-
-.soirées {
+.soirées{
     text-align: end;
     margin-top: auto;
-}
-
-header {
-    background-color: blanchedalmond;
-}
-
-footer {
-    background-color: blanchedalmond;
 }
