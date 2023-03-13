@@ -53,10 +53,12 @@ body{
 
 header {
     background-color: blanchedalmond;
+    border-radius: 10px 10px 10px 10px;
 }
 
 footer {
     background-color: blanchedalmond;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .facebook {
